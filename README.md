@@ -7,6 +7,6 @@ Aby zainstalować biblioteki Pythona nalezy wprowadzić komendę w wierszu polec
 
 ## Uruchamianie aplikacji
 Po zainstalowaniu odpowiednich zaleności mozna uruchomić aplikację posługując się wierszem poleceń i komendą:
-                python app.pl
+                python app.py
 
 
